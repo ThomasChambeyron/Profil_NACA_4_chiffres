@@ -38,8 +38,8 @@ Entrez le type de distribution (uniforme ou non-uniforme) : **non-uniforme**
 
 Les résultats affichés seront :
 
-Épaisseur maximale : 12.0 %
-Position de l'épaisseur maximale le long de la corde : 30.0 %
+Épaisseur maximale : 12.0 % 
+Position de l'épaisseur maximale le long de la corde : 30.0 % 
 Et un graphique montrant le profil de l'aile avec une annotation indiquant l'extrados et l'intrados.
 
 ## Structure du Code
