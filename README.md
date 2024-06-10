@@ -18,8 +18,8 @@ Vous pouvez les installer en utilisant les commandes suivantes : _**pip install 
 
 ## Utilisation
 
-1. Téléchargez le fichier naca_airfoil.py.
-2. Exécutez le script naca_airfoil.py dans votre environnement Python préféré.
+1. Téléchargez le fichier main.py.
+2. Exécutez le script main.py dans votre environnement Python préféré.
 3. Entrez les informations demandées lorsque vous y êtes invité :
    * Numéro du profil NACA : Entrez un numéro de profil NACA à 4 chiffres symétrique (par exemple, 0012).
    * Longueur de la corde : Entrez la longueur de la corde en mètres (par exemple, 1.0).
